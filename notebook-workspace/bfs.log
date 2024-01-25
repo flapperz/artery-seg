@@ -1,0 +1,238 @@
+experiment: default EXP NAME time: 18.89723014831543
+masked:           54946
+last iteration:   50000
+experiment: default EXP NAME time: 6.868252277374268
+masked:           108746
+last iteration:   100000
+experiment: default EXP NAME time: 34.98960304260254
+masked:           106206
+last iteration:   100000
+experiment: default EXP NAME time: 6.889327764511108
+masked:           107306
+last iteration:   100000
+experiment: default EXP NAME time: 69.83706712722778
+masked:           1013392
+last iteration:   1000000
+experiment: default EXP NAME time: 69.76493501663208
+masked:           1018686
+last iteration:   1000000
+experiment: default EXP NAME time: 7.300850868225098
+masked:           107720
+last iteration:   100000
+experiment: default EXP NAME time: 7.241326093673706
+masked:           107720
+last iteration:   100000
+experiment: default EXP NAME time: 51.37118220329285
+masked:           526914
+last iteration:   500000
+experiment: default EXP NAME time: 39.95049285888672
+masked:           525928
+last iteration:   500000
+experiment: default EXP NAME time: 39.43492817878723
+masked:           525928
+last iteration:   500000
+experiment: default EXP NAME time: 26.860826015472412
+masked:           63201
+last iteration:   57959
+experiment: default EXP NAME time: 11.479259014129639
+masked:           63201
+last iteration:   57959
+experiment: default EXP NAME time: 28.00451397895813
+masked:           63201
+last iteration:   57959
+experiment: default EXP NAME time: 0.7112212181091309
+masked:           515
+last iteration:   389
+experiment: default EXP NAME time: 37.32539200782776
+masked:           513851
+last iteration:   500000
+experiment: default EXP NAME time: 462.2562701702118
+is_reach: False
+masked:           1305508
+last iteration:   1305508
+experiment: default EXP NAME time: 39.0685338973999
+is_reach: True
+masked:           77140
+last iteration:   70962
+experiment: default EXP NAME time: 5.342761993408203
+is_reach: True
+masked:           77140
+last iteration:   70962
+experiment: default EXP NAME time: 5.433104991912842
+is_reach: True
+masked:           77140
+last iteration:   70962
+experiment: default EXP NAME time: 1824.2897408008575
+is_reach: False
+masked:           77140
+last iteration:   16276
+experiment: default EXP NAME time: 1955.1617069244385
+is_reach: False
+masked:           [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+last iteration:   16276
+experiment: default EXP NAME time: 1967.2124638557434
+is_reach: False
+masked:           16275
+last iteration:   16276
+experiment: default EXP NAME time: 2107.710795879364
+is_reach: False
+masked:           16275
+last iteration:   16276
+0
+experiment: default EXP NAME time: 2432.57692694664
+is_reach: False
+masked:           0
+last iteration:   1
+0
+experiment: default EXP NAME time: 2527.9088349342346
+is_reach: False
+masked:           6991
+last iteration:   6992
+0
+experiment: default EXP NAME time: 3035.627918958664
+is_reach: False
+masked:           1920
+last iteration:   1921
+0
+experiment: default EXP NAME time: 3090.7633061408997
+is_reach: False
+masked:           1920
+last iteration:   1921
+0
+experiment: default EXP NAME time: 3152.4629888534546
+is_reach: True
+masked:           127836
+last iteration:   92833
+0
+experiment: default EXP NAME time: 3227.3000259399414
+is_reach: True
+masked:           127836
+last iteration:   92833
+0
+experiment: DIJKSTRA SHORTEST PATH time: 34.40180277824402
+is_reach: True
+masked:           127836
+last iteration:   92833
+0
+experiment: DIJKSTRA SHORTEST PATH time: 7.498618841171265
+is_reach: True
+masked:           127836
+last iteration:   92833
+0
+experiment: DIJKSTRA SHORTEST PATH time: 7.365803003311157
+is_reach: True
+masked:           127836
+last iteration:   92833
+0
+experiment: DIJKSTRA SHORTEST PATH time: 0.28607702255249023
+is_reach: True
+masked:           2098
+last iteration:   726
+0
+experiment: DIJKSTRA SHORTEST PATH time: 5.989222049713135
+is_reach: True
+masked:           102749
+last iteration:   75270
+0
+experiment: DIJKSTRA SHORTEST PATH time: 6.064396858215332
+is_reach: True
+masked:           101313
+last iteration:   74025
+0
+experiment: DIJKSTRA SHORTEST PATH time: 26.00539493560791
+is_reach: True
+masked:           101146
+last iteration:   73896
+0
+experiment: DIJKSTRA SHORTEST PATH time: 5.949782609939575
+is_reach: True
+masked:           100520
+last iteration:   73403
+0
+experiment: DIJKSTRA SHORTEST PATH time: 6.133145809173584
+is_reach: True
+masked:           100520
+last iteration:   73403
+0
+experiment: default EXP NAME time: 36.31523513793945
+is_reach: True
+masked:           77140
+last iteration:   70962
+experiment: DIJKSTRA SHORTEST PATH time: 5.90713095664978
+is_reach: True
+masked:           100520
+last iteration:   73403
+0
+experiment: MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 1.8183388710021973
+len path:           10401
+0
+experiment: MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 2.944679021835327
+len path:           10401
+0
+experiment: MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 8.341406106948853
+len path:           16905
+0
+experiment: MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 8.476154088973999
+len path:           16905
+0
+experiment: MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 8.583845138549805
+len path:           16905
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 5.627233982086182
+len path:           5201
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 8.32975697517395
+len path:           16905
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.58235502243042
+len path:           10401
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 3.2278780937194824
+len path:           10401
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.8583598136901855
+len path:           11713
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.899601221084595
+len path:           11713
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.909440755844116
+len path:           11713
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.789463043212891
+len path:           10415
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.73471212387085
+len path:           7815
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 5.5657312870025635
+len path:           5201
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 5.619346857070923
+len path:           5201
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 5.888048887252808
+len path:           1301
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 3.6088690757751465
+len path:           11713
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 3.5305230617523193
+len path:           11713
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 7.307317018508911
+len path:           1301
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.526366233825684
+len path:           3903
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 4.462810277938843
+len path:           5203
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 3.160792112350464
+len path:           10401
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 8.675839900970459
+len path:           1301
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 6.157939195632935
+len path:           2601
