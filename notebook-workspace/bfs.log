@@ -236,3 +236,67 @@ experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 8.675839900970459
 len path:           1301
 experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 6.157939195632935
 len path:           2601
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 2.0416629314422607
+len path:           10401
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 12.585541725158691
+len path:           10401
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 2.103624105453491
+len path:           10401
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 2.0372700691223145
+len path:           10401
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 12.006855249404907
+len path:           10401
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 11.714354038238525
+len path:           10401
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 24.408578157424927
+len path:           10401
+experiment: DIJKSTRA SHORTEST PATH time: 7.853521108627319
+is_reach: True
+masked:           128822
+last iteration:   93178
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 14.63596796989441
+len path:           42
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 13.378436803817749
+len path:           34
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 30.37398886680603
+len path:           47
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 11.674404859542847
+len path:           34
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 2.8868072032928467
+len path:           38
+experiment: DIJKSTRA SHORTEST PATH time: 7.601354122161865
+is_reach: True
+masked:           128822
+last iteration:   93178
+0
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 81.07317590713501
+len path:           38
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 8.714605808258057
+len path:           37
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 7.532994747161865
+len path:           37
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 7.944733142852783
+len path:           37
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 21.016358852386475
+len path:           49
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 624.0511319637299
+len path:           80
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 1.6921727657318115
+len path:           37
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 1.6381120681762695
+len path:           37
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 3.820685863494873
+len path:           49
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 3.823025941848755
+len path:           49
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 7.150854825973511
+len path:           37
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 21.308057069778442
+len path:           49
+experiment: TSP + MULTI SUBPATH + DIJKSTRA SHORTEST PATH time: 614.7667970657349
+len path:           80
+experiment: default EXP NAME time: 5.685369968414307
+is_reach: True
+masked:           77140
+last iteration:   70962
